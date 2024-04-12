@@ -1,6 +1,6 @@
 {
   "name": "flask-rpc-js",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Generate fetch body data to work with Flask-RPC",
   "homepage": "https://github.com/CheeseCake87/flask-rpc-js",
   "repository": {
@@ -10,5 +10,10 @@
   "author": "David Carmichael",
   "license": "MIT License",
   "dependencies": {},
-  "readme": "README.md"
+  "readme": "README.md",
+  "files": [
+    "index.js",
+    "cdn.js",
+    "README.md"
+  ]
 }
