@@ -1,6 +1,6 @@
 {
   "name": "flask-rpc-js",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Generate fetch body data to work with Flask-RPC",
   "homepage": "https://github.com/CheeseCake87/flask-rpc-js",
   "repository": {
