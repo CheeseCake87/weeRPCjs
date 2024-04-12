@@ -10,7 +10,6 @@ See: [Flask-RPC](https://github.com/CheeseCake87/flask-rpc)
 ### CDN
 
 ```html
-
 <script src="https://unpkg.com/flask-rpc-js@latest/cdn.js"></script>
 ```
 
