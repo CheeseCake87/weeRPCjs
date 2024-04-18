@@ -1,26 +1,28 @@
-# 📣 Flask-RPC-JS
+# 📡 fRPC-JS
 
 This is a small JS library that helps you
-build fetch body data for Flask-RPC.
+work with fRPC.
 
-See: [Flask-RPC](https://github.com/CheeseCake87/flask-rpc)
+**See:**
+- [Flask-RPC](https://github.com/CheeseCake87/flask-rpc)
+- [Quart-RPC](https://github.com/CheeseCake87/quart-rpc)
 
 ## Installation
 
 ### CDN
 
 ```html
-<script src="https://unpkg.com/flask-rpc-js@latest/cdn.js"></script>
+<script src="https://unpkg.com/frpc-js@latest/cdn.js"></script>
 ```
 
 ### NPM
 
 ```bash
-npm install flask-rpc-js
+npm install frpc-js
 ```
 
 ```js
-import {frpc} from 'flask-rpc-js';
+import {frpc} from 'frpc-js';
 ```
 
 ## Usage

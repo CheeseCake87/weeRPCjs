@@ -1,11 +1,11 @@
 {
-  "name": "flask-rpc-js",
-  "version": "0.1.8",
-  "description": "Generate fetch body data to work with Flask-RPC",
-  "homepage": "https://github.com/CheeseCake87/flask-rpc-js",
+  "name": "frpc-js",
+  "version": "0.1.0",
+  "description": "Generate fetch body data to work with fRPC",
+  "homepage": "https://github.com/CheeseCake87/frpc-js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CheeseCake87/flask-rpc-js.get"
+    "url": "https://github.com/CheeseCake87/frpc-js.get"
   },
   "author": "David Carmichael",
   "license": "MIT License",
