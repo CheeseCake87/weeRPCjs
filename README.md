@@ -1,7 +1,7 @@
-# 📡 fRPC-JS
+# 📡 wRPC-JS
 
 This is a small JS library that helps you
-work with fRPC.
+work with wRPC.
 
 **See:**
 - [Flask-RPC](https://github.com/CheeseCake87/flask-rpc)
@@ -12,17 +12,17 @@ work with fRPC.
 ### CDN
 
 ```html
-<script src="https://unpkg.com/frpc-js@latest/cdn.js"></script>
+<script src="https://unpkg.com/wrpc-js@latest/cdn.js"></script>
 ```
 
 ### NPM
 
 ```bash
-npm install frpc-js
+npm install wrpc-js
 ```
 
 ```js
-import {frpc} from 'frpc-js';
+import {wrpc} from 'wrpc-js';
 ```
 
 ## Usage
@@ -35,7 +35,7 @@ fetch(
         headers: {
             'Content-Type': 'application/json',
         },
-        body: frpc(
+        body: wrpc(
             function_ = 'add',
             data = {
                 'name': 'John Doe',
