@@ -1,11 +1,7 @@
 # 📡 wRPC-JS
 
 This is a small JS library that helps you
-work with wRPC.
-
-**See:**
-- [Flask-RPC](https://github.com/CheeseCake87/flask-rpc)
-- [Quart-RPC](https://github.com/CheeseCake87/quart-rpc)
+work with [wRPC](https://github.com/CheeseCake87/wRPC).
 
 ## Installation
 

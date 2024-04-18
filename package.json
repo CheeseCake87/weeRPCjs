@@ -1,11 +1,11 @@
 {
-  "name": "frpc-js",
-  "version": "0.1.0",
-  "description": "Generate fetch body data to work with fRPC",
-  "homepage": "https://github.com/CheeseCake87/frpc-js",
+  "name": "wrpc-js",
+  "version": "0.1.1",
+  "description": "Generate fetch body data to work with wRPC",
+  "homepage": "https://github.com/CheeseCake87/wrpc-js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CheeseCake87/frpc-js.get"
+    "url": "https://github.com/CheeseCake87/wrpc-js.get"
   },
   "author": "David Carmichael",
   "license": "MIT License",
