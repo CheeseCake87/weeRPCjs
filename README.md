@@ -1,7 +1,7 @@
 # 📡 wRPC-JS
 
 This is a small JS library that helps you
-work with [wRPC](https://github.com/CheeseCake87/wRPC).
+work with [weeRPC](https://github.com/CheeseCake87/weeRPC).
 
 ## Installation
 
