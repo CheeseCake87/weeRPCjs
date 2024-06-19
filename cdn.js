@@ -2,7 +2,7 @@ function weerpc(function_, data, version) {
     // If version(float) is not defined, default to 1.0
 
     if (version === undefined) {
-        return weerpc_version_1_0(function_, data)
+        return weerpc_version_1_1(function_, data)
     }
 
     if (version === 1.0) {
