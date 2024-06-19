@@ -19,7 +19,7 @@ function weerpc(function_, data, version) {
     console.log("leave version empty will default to latest version")
 }
 
-function weerpc_version_1_0(function_, data) {
+export function weerpc_version_1_0(function_, data) {
     return JSON.stringify({
         "wrpc": 1.0,
         "function": function_,
@@ -27,7 +27,7 @@ function weerpc_version_1_0(function_, data) {
     })
 }
 
-function weerpc_version_1_1(function_, data) {
+export function weerpc_version_1_1(function_, data) {
     return JSON.stringify({
         "weerpc": 1.1,
         "function": function_,
