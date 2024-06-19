@@ -1,4 +1,4 @@
-# 📡 wRPC-JS
+# 📡 weeRPCjs
 
 This is a small JS library that helps you
 work with [weeRPC](https://github.com/CheeseCake87/weeRPC).
@@ -8,17 +8,17 @@ work with [weeRPC](https://github.com/CheeseCake87/weeRPC).
 ### CDN
 
 ```html
-<script src="https://unpkg.com/wrpc-js@latest/cdn.js"></script>
+<script src="https://unpkg.com/weerpcjs@latest/cdn.js"></script>
 ```
 
 ### NPM
 
 ```bash
-npm install wrpc-js
+npm install weerpcjs
 ```
 
 ```js
-import {wrpc} from 'wrpc-js';
+import {weerpc} from 'weerpcjs';
 ```
 
 ## Usage
@@ -31,7 +31,7 @@ fetch(
         headers: {
             'Content-Type': 'application/json',
         },
-        body: wrpc(
+        body: weerpc(
             function_ = 'add',
             data = {
                 'name': 'John Doe',
